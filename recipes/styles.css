@@ -1,0 +1,22 @@
+* {
+    background-color: cadetblue;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    
+}
+
+.step {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+p {
+    font-size: 18px;
+}

@@ -1,0 +1,15 @@
+* {
+    background-color: firebrick;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+#step {
+
+    background-size: 250px;
+    border: 150px;
+    background-origin: padding-box;
+}
